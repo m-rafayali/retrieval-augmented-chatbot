@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Insurance RAG Chatbot  
 **AI-powered insurance assistant with Retrieval-Augmented Generation (RAG), ChromaDB, and Gradio UI.**  
 ##  Overview  
@@ -41,3 +42,7 @@ MIT
 4. **Minimalist structure** for easy navigation.  
 
 Need a **quickstart script** for `app.py`? Let me know! 🎯
+=======
+# retrieval-augmented-chatbot
+An intelligent Retrieval-Augmented Chatbot that combines Large Language Models (LLMs) with document retrieval for accurate, context-aware answers. Uses vector embeddings, semantic search, and context injection to enhance responses with domain-specific knowledge. Built with Python and LangChain.
+>>>>>>> 236740274a7791c0eb2753dd0ffdf6e755f4e3da
