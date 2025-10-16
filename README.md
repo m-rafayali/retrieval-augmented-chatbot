@@ -1,31 +1,31 @@
 ---
 
-# 🤖 Retrieval-Augmented Chatbot
+#  Retrieval-Augmented Chatbot
 
 An intelligent **Retrieval-Augmented Generation (RAG)** chatbot that combines **Large Language Models (LLMs)** with **document retrieval** to deliver accurate, context-aware answers.
 It uses **vector embeddings**, **semantic search**, and **context injection** to enhance chatbot responses with domain-specific knowledge.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project demonstrates how **RAG pipelines** work — connecting a **vector database (ChromaDB)** for document retrieval and an **LLM (e.g., GPT-3.5, Llama 2)** for natural language response generation.
 A **Gradio-based interface** is included for easy interaction and testing.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-* 🧠 **Context-aware conversations** using RAG
-* 📚 **Document retrieval** via ChromaDB vector database
-* 🔍 **Embeddings** generated using `sentence-transformers`
-* 🗣️ **LLM integration** (OpenAI / Hugging Face models)
-* 💬 **Gradio UI** for real-time chatbot interaction
-* ⚙️ Modular, extensible Python code
+*  **Context-aware conversations** using RAG
+*  **Document retrieval** via ChromaDB vector database
+*  **Embeddings** generated using `sentence-transformers`
+*  **LLM integration** (OpenAI / Hugging Face models)
+*  **Gradio UI** for real-time chatbot interaction
+*  Modular, extensible Python code
 
 ---
 
-## 🛠️ Setup
+##  Setup
 
 ### 1. Install Dependencies
 
@@ -49,7 +49,7 @@ Then move the downloaded `knowledge-base/` folder into this project’s root dir
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **RAG Pipeline:** LangChain + ChromaDB
@@ -60,7 +60,7 @@ Then move the downloaded `knowledge-base/` folder into this project’s root dir
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 python chatbot_RAG_.ipynb
@@ -75,7 +75,7 @@ python app.py
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 * Customer support assistants
 * Knowledge base and policy chatbots
@@ -84,23 +84,23 @@ python app.py
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute it with attribution.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Rafay Ali**
 AI Engineer | ML & Data Science Practitioner
 
-📧 [m.rafayali@outlook.com](mailto:m.rafayali@outlook.com)
-🔗 [GitHub](https://github.com/m-rafayali) • [LinkedIn](https://linkedin.com/in/m-rafayali)
+ [m.rafayali@outlook.com](mailto:m.rafayali@outlook.com)
+ [GitHub](https://github.com/m-rafayali) • [LinkedIn](https://linkedin.com/in/m-rafayali)
 
 ---
 
-⭐ **If you find this project useful, please give it a star to support further development!**
+ **If you find this project useful, please give it a star to support further development!**
 
 ---
